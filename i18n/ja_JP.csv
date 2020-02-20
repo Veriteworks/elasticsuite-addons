@@ -1,0 +1,11 @@
+"Display Search Box","検索ボックスを表示"
+"Decides if search box should be displayed alongside ""Show more"" button when there are more filters than defined in Facet max. size setting.","ファセットの最大件数よりも候補値が多い場合の ""もっと表示"" が表示されている際に検索ボックスを表示するかを指定します。"
+Yes,Yes
+No,No
+"Slider Display Configuration","スライダー表示設定"
+"Display Mode","表示モード"
+"Tells which elements will be displayed to the user on the storefront for selecting a range of values for this attribute.","この属性のフロントエンドでの値指定方法を指定します。"
+"Inputs with slider","スライダーとテキストボックス"
+"Inputs only","テキストボックスのみ"
+"Slider only","スライダーのみ"
+"Only new products","新着商品のみ"
